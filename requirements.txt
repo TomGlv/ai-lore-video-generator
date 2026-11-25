@@ -1,0 +1,22 @@
+# Générateur de Vidéos Lore TikTok - Dépendances Python (Version ChatGPT)
+
+# APIs et requêtes
+openai>=1.0.0
+elevenlabs>=0.2.0
+aiohttp>=3.8.0
+requests>=2.31.0
+
+# Traitement vidéo et audio
+moviepy>=1.0.3
+imageio>=2.25.0
+imageio-ffmpeg>=0.4.8
+
+# Traitement d'images
+Pillow>=10.0.0
+
+# Text-to-Speech de fallback
+pyttsx3>=2.90
+
+# Utilitaires
+pathlib2>=2.3.7
+typing-extensions>=4.0.0
